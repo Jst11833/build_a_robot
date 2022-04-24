@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | PASS |
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  c:\Users\Jan-NiklasSturm\dev\robocorp\Certificate 2\output\output.xml
+Log:     c:\Users\Jan-NiklasSturm\dev\robocorp\Certificate 2\output\log.html

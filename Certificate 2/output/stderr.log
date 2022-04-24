@@ -1,0 +1,3 @@
+[ WARN ] C:\Users\Jan-NiklasSturm\AppData\Local\robocorp\holotree\b1f3c244e_691db988\lib\site-packages\RPA\Desktop\Windows.py:210: FutureWarning: `RPA.Desktop.Windows` got deprecated and will be no longer maintained, please use `RPA.Windows` instead (https://robocorp.com/docs/libraries/rpa-framework/rpa-windows)
+  "`RPA.Desktop.Windows` got deprecated and will be no longer maintained, "
+
